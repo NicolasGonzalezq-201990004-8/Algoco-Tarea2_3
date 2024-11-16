@@ -1,0 +1,70 @@
+Cadenas vacías
+S1:
+S2: 
+
+Caracteres repetidos
+S1: x
+S2: 
+S1: x
+S2: x
+S1: xx
+S2: x
+S1: xxx
+S2: x
+S1: xxxx
+S2: xx
+S1: xxxxx
+S2: xx
+S1: xxxxxx
+S2: xxx
+S1: xxxxxxx
+S2: xxx
+
+Transposiciones necesarias
+S1: cd
+S2: dc
+S1: abc
+S2: bac
+S1: efgh
+S2: fehg
+S1: ijkl
+S2: lkji
+
+Inserciones y eliminaciones
+S1: goodbye
+S2: go
+S1: creativity
+S2: create
+S1: universe
+S2: univ
+S1: automobile
+S2: auto
+S1: radiation
+S2: rad
+S1: refrigerator
+S2: ref
+
+Cadenas aleatorias de longitud variable
+S1: gp
+S2: ps
+S1: jax
+S2: wil
+S1: bdbi
+S2: ipdy
+S1: cyner
+S2: gqsfe
+S1: eyiqud
+S2: lvrgnr
+S1: ymuvxsjj
+S2: fpjkkcdu
+S1: kpgqdarydx
+S2: oxifccwxuv
+S1: azppfxtrmurqbjzsjwhj
+S2: scxvvumxomvbmswfzfhn
+S1: tivwjdbkhymrdvfzjsruudsxiiscqv
+S2: laxgmxsrkaqwvducehsbmkycxvkipx
+S1: zfospvftxscmjmudcslwtgnmqtssrttxphxdhxwt
+S2: nyjqbfpguigmxydrlvttpqnxgtzgwcecyjhzbfts
+S1: wlwsjvvtisczxydlbttptawezrvqdomrhtroliyiwsjsuzfjbh
+S2: jqvmzpxyakhglgclljauudpotilyjxpyqznqfwlyhmdpuvuukq
+
